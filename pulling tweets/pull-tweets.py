@@ -16,8 +16,8 @@ access_token_secret=os.environ.get("rDonoo0QOBE621TH7WWaupOLi0bYBK3IlwXbUfpmfD2h
 output_file=os.environ.get("output_file")
 
 # Tweeter API
-auth = tw.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
+auth = tw.OAuthHandler("XFFgyvNbIn5xmViUBOkuObnAr", "46TSwjitA3QVTorNbLi5mIiiurjctFMixVcLh4hnv6I0aHLIve")
+auth.set_access_token("1209547988986499072-YIPmWPTI3YGTEtPlCAST5sYJt2Au7c", "rDonoo0QOBE621TH7WWaupOLi0bYBK3IlwXbUfpmfD2hv")
 api = tw.API(auth)
 
 # create empty df
