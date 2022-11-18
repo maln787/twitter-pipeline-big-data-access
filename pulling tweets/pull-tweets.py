@@ -9,11 +9,11 @@ analyzer = SentimentIntensityAnalyzer()
 
 from my_pyfunctions import functions
 
-consumer_key=os.environ.get("consumer_key")
-consumer_secret=os.environ.get("consumer_secret")
-access_token=os.environ.get("access_token")
-access_token_secret=os.environ.get("access_token_secret")
-output_file=os.environ.get("output_file")
+consumer_key=os.environ.get("XFFgyvNbIn5xmViUBOkuObnAr")
+consumer_secret=os.environ.get("46TSwjitA3QVTorNbLi5mIiiurjctFMixVcLh4hnv6I0aHLIve")
+access_token=os.environ.get("1209547988986499072-YIPmWPTI3YGTEtPlCAST5sYJt2Au7c")
+access_token_secret=os.environ.get("rDonoo0QOBE621TH7WWaupOLi0bYBK3IlwXbUfpmfD2hv")
+output_file=os.environ.get("export.csv")
 
 # Tweeter API
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
