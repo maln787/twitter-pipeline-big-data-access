@@ -1,6 +1,8 @@
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="300"/>
 
 # Project | Creating real-time Tweets Extraction and Analysis Pipelines
+<img width="416" alt="Screenshot 2022-12-08 at 12 04 33 PM" src="https://user-images.githubusercontent.com/44938585/206517047-4ce289d6-3b1c-45d7-b861-10bb329f6b1a.png">
+
 ## Introduction
 Social media - Twitter - is becoming an important tool in developing a community around a product
 ## Business case
@@ -14,6 +16,7 @@ Social media - Twitter - is becoming an important tool in developing a community
 1. Provide cleaned and tagged tweets to the Social Media, Marketing and Analytics teams for Analysis and Visualization
 
 ## Other objectives of the project
+
 1. Extract tweets with a keyword (this case "tesla") in real-time
 2. Create batches of tweets 
 3. Analyze sentiments in the tweets every 30 minutes 
