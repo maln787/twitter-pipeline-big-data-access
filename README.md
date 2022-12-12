@@ -17,7 +17,7 @@ Social media - Twitter - is becoming an important tool in developing a community
 
 ## Other objectives of the project
 
-1. Extract tweets with a keyword (this case "tesla") in real-time
+1. Extract tweets with a keyword (this case "football") in real-time
 2. Create batches of tweets 
 3. Analyze sentiments in the tweets every 30 minutes 
 4. Insert the clean and analyzed data into an AWS S3 bucket and Redshift table ready for querrying and visualization
